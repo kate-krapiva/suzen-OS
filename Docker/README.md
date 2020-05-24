@@ -1,2 +1,2 @@
 # Результат лабораторной работы
-![img](srceenshot.jpg)
+![img](screenshot.jpg)
